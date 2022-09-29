@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaroncar206
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Usability and User Centered Design
-- 💞️ I’m looking for a Software Engineering internship for Summer 2022
+- 💞️ I’m looking for a Software Engineering internship for Summer 2023
 - 📫 How to reach me: Email: aaroncar371@gmail.com
 
 <!---
